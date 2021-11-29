@@ -1,5 +1,5 @@
 # kalkulator
-Hello
+Hai 👋, ini project 1 kalkulator yang saya buat
 
 # Need install
 
